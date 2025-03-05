@@ -55,8 +55,5 @@ The main components of the code include:
 ## 🤝 Contributing
 We welcome contributions! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Your input is invaluable! 💡
 
-## 📄 License
-This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
-
 ## 🎉 Enjoy the Game!
 Thank you for checking out the Tic-Tac-Toe game! Have a blast playing, and may the best strategist win! 🥳 If you have any questions or feedback, don’t hesitate to reach out! Happy gaming! 🎊
