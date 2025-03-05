@@ -1,0 +1,1 @@
+{"Suwan Dhital": 1, "Aarav Thapa": 3, "Nisha Sharma": 5, "Pratik Gurung": 4, "Anisha Koirala": 1, "Ravi Shrestha": 6, "Pooja Joshi": 7, "Samir Bhandari": 8, "Deepak Pandey": 10, "hello": 1}
